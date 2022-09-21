@@ -16,7 +16,7 @@
 I am a passionate fast learner and hard worker who loves to develop simple beautiful and functional Applications, 
 and I am a person who loves teaching others what I know to share experiences with various knowledge people.
 
-Skills: NEXT JS / REACT / Node JS / PostgreSQL / Prisma ORM
+Skills: NEXT JS / REACT / Node JS / PostgreSQL / Prisma ORM / firebase / Javascript / Typescript / C++ / C#
 
 
 <div align="center">
