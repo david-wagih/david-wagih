@@ -9,10 +9,7 @@ I'm a passionate software engineer and a Computer & Systems Engineering student,
 
 <br/>
 
-<div align="center">
-<p>
-  Connect With Me
-</p>
+## Connect with me
 
 <a href="https://www.linkedin.com/in/david-wagih/"><img align="left" alt="David's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" /></a>
 
@@ -27,10 +24,7 @@ I'm a passionate software engineer and a Computer & Systems Engineering student,
 <a href="mailto:davidwagih62@gmail.com">
   <img align="left" alt="David's gmail" width="30px" src="https://user-images.githubusercontent.com/76125650/141382583-1354ab1c-10a7-4605-a255-412ee57d2ad7.png" draggable="false" />
 </a>
-</div>
 
-<div>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-wagih&theme=github_dark" alt="nawed2611" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-wagih&theme=github_dark" alt="nawed2611" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-wagih&theme=github_dark&show_icons=true&count-private=true" alt="nawed2611" /></p>
-</div>
