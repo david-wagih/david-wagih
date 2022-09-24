@@ -26,6 +26,7 @@ I'm a passionate software engineer and a Computer & Systems Engineering student,
 </a>
 
 <br/>
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-wagih&theme=github_dark" alt="nawed2611" /></p>
 
