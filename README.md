@@ -28,6 +28,4 @@ I'm a passionate software engineer and a Computer & Systems Engineering student,
 <br/>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-wagih&theme=github_dark" alt="nawed2611" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-wagih&theme=github_dark&show_icons=true&count-private=true" alt="nawed2611" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-wagih&theme=github_dark" alt="david-wagih" /></p>
