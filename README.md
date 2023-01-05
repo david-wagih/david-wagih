@@ -3,9 +3,8 @@
 I'm a passionate software engineer. I'm highly proficient in C, C++, Python, Solidity, HTML, CSS, JavaScript, TypeScript and its technologies. I like to build Full-Stack apps (TypeScript based like React.js/Next.js with TailwindCSS and Node.js, Prisma with PostgreSQL/MongoDB database support) and mobile applications using Flutter while actively participating in hackathons. I like to learn new technology and stay up-to date with the technology advancements and trends.
 
 - 📖 I’m currently learning Data Structures & Algorithms and exploring the Web3.0 and Data Science space
-- 💭 Feel free to ask me about Web Development
+- 💭 Feel free to ask me about Web Development and Mobile development.
 - 🧑‍💻 Check out my [Devpost](https://devpost.com/david-wagih)
-- ➡️ Do leave a review on [My Portfolio Website](https://david-wagih.vercel.app/)
 
 <br/>
 
