@@ -2,13 +2,13 @@
 <h1 align="center">Hi there 👋, I'm David Wagih</h1>
 
 <!-- Introduction -->
-<p align="center">I'm a passionate software engineer who loves building Full-Stack apps, mobile applications and participating in hackathons. I'm highly proficient in C, C++, Python, Solidity, HTML, CSS, JavaScript, TypeScript and its technologies.</p>
+<p align="center">I'm a passionate software engineer who loves building Full-Stack apps, mobile applications and participating in hackathons. I'm highly proficient in C++, Python, Java, HTML, CSS, JavaScript, TypeScript and its technologies.</p>
 
 <!-- Skills -->
 <p align="center">I like to build Full-Stack apps (TypeScript based like React.js/Next.js with TailwindCSS and Node.js, Prisma with PostgreSQL/MongoDB database support) and mobile applications using Flutter while actively participating in hackathons. I like to learn new technology and stay up-to-date with the technology advancements and trends.</p>
 
 <!-- Learning -->
-<p align="center">📖 I’m currently learning Data Structures & Algorithms and exploring the Web3.0 and Data Science space</p>
+<p align="center">📖 I’m currently learning microservices and exploring the Web3.0</p>
 
 <!-- Ask me -->
 <p align="center">💭 Feel free to ask me about Web Development and Mobile development.</p>
