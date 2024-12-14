@@ -77,9 +77,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=david-wagih&theme=algolia" alt="david-wagih streak" width="49%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=david-wagih&show_icons=true&layout=compact&theme=algolia" alt="david-wagih top langs" width="49%" />
-</p>
 
 ---
 
