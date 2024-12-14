@@ -1,95 +1,99 @@
-<!-- Optional: A personal banner or GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/David-Wagih/David-Wagih/main/assets/banner.gif" alt="Banner" width="100%"/>
-</p>
+<div align="center">
+  <!-- Futuristic Header Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=David%20Wagih&fontSize=70&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20|%20System%20Design%20Enthusiast&descAlignY=55"/>
 
-<h1 align="center">Hi 👋, I'm David Wagih</h1>
-<h3 align="center">Innovative Software Engineer | System Design & DevOps Enthusiast</h3>
+  <!-- Dynamic Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=435&lines=System+Design+%26+Architecture;Backend+Development;DevOps+%26+Cloud+Solutions;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  </a>
 
-<p align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=david-wagih&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</div>
+
+<!-- Animated Wave -->
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+## 🚀 About Me
+
+<div align="center">
+  <h3>Backend Engineer & System Design Enthusiast from Egypt 🇪🇬</h3>
+  <p>Passionate about building scalable distributed systems and cloud-native applications</p>
+</div>
+
+## 🎯 Specializations
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Backend_Development-%23323330?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGwSURBVDhPjZLLK0RhGMaP+TBuYWGBhdnwH8hC2SobZSEbJRmFMojSuGwUNYRpXMq4jNAgaRbKZpqNxgxTQk2NmHEb4zLued7znTPMmFO/eb/zft/veX/nO+dEGYYR5YxG+Hw+qKqKk+0VeJ4HLRB4B6+B5xF+1zRV9X9nWZalYNTrdqO1pRnT01OYmZ7EqsMOh2MRDQ31sJQZYbfbsbq2gtraGszNzqCqqhKqqsHj9YLWQE+YKYqC4uJiVFRYUWYph8PhwOLiAhYW5mG3L8HpdKKhoR6jI8PYc+2iproayWQS6XT6H0ZEQpIkxGIxnJ2dIhAIwO12o7OzA8FgEOFwGDU11ZgYH8XW5joEQUBPdxf8/gBisRgymQwVTiKRwPn5GUKhO/j9fvT19iAYvEEkEkFXZzvGx0ZxfnYCURRxf3+PcDiMVCqFbDZLhQkPvEgsGkXk8QH39/cYHOiH2+WCy7WD7q4OTE6M4fLiHM/Pz4jH41QwPw4EjmEYkGUZyVQK0WgET0+PeHl5RSKRgKapkCQRgiCQZ9kPl/7KD0YikXx+GH8N4BMU4UDI9QF+DQAAAABJRU5ErkJggg==" alt="Backend Development"/>
+  <img src="https://img.shields.io/badge/System_Design-%23430098?style=for-the-badge&logo=data:image/png;base64,..." alt="System Design"/>
+  <img src="https://img.shields.io/badge/Cloud_Architecture-%232496ED?style=for-the-badge&logo=data:image/png;base64,..." alt="Cloud Architecture"/>
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  <details open>
+    <summary><b>Backend & Architecture</b></summary>
+    <br/>
+    <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Microservices-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  </details>
+
+  <details open>
+    <summary><b>DevOps & Cloud</b></summary>
+    <br/>
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  </details>
+
+  <details open>
+    <summary><b>Databases & Storage</b></summary>
+    <br/>
+    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+  </details>
+</div>
+
+## 🎯 Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Distributed_Systems-%23000000.svg?style=for-the-badge"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Cloud_Native-%232496ED.svg?style=for-the-badge"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/System_Design-%23430098.svg?style=for-the-badge"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=david-wagih&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+
+<!-- GitHub Stats with Animation -->
+<img src="https://github-readme-stats.vercel.app/api?username=david-wagih&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=📊%20David's%20GitHub%20Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=david-wagih&theme=radical&hide_border=true" width="49%" />
+
+## 📫 Connect With Me
+
+<div align="center">
   <a href="mailto:davidwagih62@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-davidwagih62%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/david-wagih" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/david-wagih">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=david-wagih&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</p>
+</div>
 
----
-
-## About Me
-
-- 🚀 **Focused On**: **System Design**, **Architecture**, **DevOps**, and building scalable backend solutions.
-- 💡 **Philosophy**: Combine clean code, thoughtful design, and automation to deliver robust software products.
-- 🤝 **Collaboration**: Open to working on innovative projects, contributing to open-source, and learning from diverse teams.
-- 🌱 **Ongoing Learning**: Continually enhancing my skill set with emerging technologies and best practices.
-
----
-
-## Tech Stack & Tools
-
-**Languages**  
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)]() 
-[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)]() 
-[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)]() 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)]() 
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)]() 
-[![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white&style=flat-square)]()
-
-**Frontend**  
-[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square)]() 
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)]()  
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)]()
-
-**Backend & Frameworks**  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)]() 
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)]() 
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white&style=flat-square)]()
-
-**Databases**  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)]() 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)]() 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)]()  
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft%20sql%20server&logoColor=white&style=flat-square)]()
-
-**Cloud & DevOps**  
-[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)]() 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)]() 
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)]()
-
-**Testing & CI/CD**  
-[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat-square)]() 
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)]()
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=david-wagih&margin-w=15&margin-h=15&column=7&theme=algolia" alt="david-wagih trophies" />
-  </a>
-</p>
-
-<p align="center">
-    <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=david-wagih](https://github-readme-stats.vercel.app/api?username=david-wagih)&show_icons=true&layout=compact&theme=algolia" alt="david-wagih top langs" width="49%" />
-</p>
-
-
----
-
-## Get in Touch
-
-<p align="center">
-  <a href="mailto:davidwagih62@gmail.com">
-    <img src="https://img.shields.io/badge/Email-davidwagih62%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/david-wagih" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-*Thank you for visiting! Let’s create something extraordinary together.*
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%" />
