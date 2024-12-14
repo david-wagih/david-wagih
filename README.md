@@ -81,7 +81,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=david-wagih&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 
 <!-- GitHub Stats with Animation -->
-<img src="https://github-readme-stats.vercel.app/api?username=david-wagih&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=📊%20David's%20GitHub%20Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=david-wagih&show_icons=true&theme=radical&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=📊%20David's%20GitHub%20Stats" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=david-wagih&theme=radical&hide_border=true" width="49%" />
 
 ## 📫 Connect With Me
