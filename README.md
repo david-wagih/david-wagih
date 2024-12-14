@@ -73,8 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=david-wagih&show_icons=true&theme=algolia" alt="david-wagih GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=david-wagih&theme=algolia" alt="david-wagih streak" width="49%"/>
+  [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=david-wagih)](https://github.com/david-wagih/github-readme-stats)
 </p>
 
 
