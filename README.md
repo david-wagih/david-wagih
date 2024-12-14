@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=david-wagih)](https://github.com/david-wagih/github-readme-stats)
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=david-wagih](https://github-readme-stats.vercel.app/api?username=david-wagih)&show_icons=true&layout=compact&theme=algolia" alt="david-wagih top langs" width="49%" />
 </p>
 
 
