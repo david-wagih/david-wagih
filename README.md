@@ -17,8 +17,8 @@
 ## 🚀 About Me
 
 <div align="center">
-  <h3>Backend Engineer & System Design Enthusiast from Egypt 🇪🇬</h3>
-  <p>Passionate about building scalable distributed systems and cloud-native applications</p>
+  <h3>Software Engineer 🇪🇬</h3>
+  <p>Passionate about building Solutions for real problems.</p>
 </div>
 
 ## 🎯 Specializations
