@@ -9,6 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Update Profile README with recent activity
+    permissions:
+      contents: write # This is important to allow the action to commit changes
 
     steps:
       - uses: actions/checkout@v3
