@@ -8,7 +8,7 @@
 </div>
 
 ## 🚀 About Me
-Software Engineer from Egypt passionate about building solutions for real problems. I specialize in backend development, system design, and cloud architecture.
+Software Engineer from Egypt passionate about building solutions for real problems.
 
 ## 🛠️ Tech Stack
 <div align="center">
