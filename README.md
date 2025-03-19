@@ -2,7 +2,6 @@
   <!-- Header -->
   <h1>David Wagih</h1>
   <h3>Software Engineer</h3>
-  <a>davidwagih.netlify.app/</a>
   
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=david-wagih&style=for-the-badge&color=0891b2&labelColor=1c1917" />
